@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Herr Spinell Beschreibt...</title>
-    <link>http://detlevspinellbeschreibt.lubeck/categories/</link>
+    <link>https://mxthu313.github.io/herrSpinellBeschreibt/categories/</link>
     <description>Recent content in Categories on Herr Spinell Beschreibt...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://detlevspinellbeschreibt.lubeck/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://mxthu313.github.io/herrSpinellBeschreibt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

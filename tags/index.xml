@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Herr Spinell Beschreibt...</title>
-    <link>http://detlevspinellbeschreibt.lubeck/tags/</link>
+    <link>https://mxthu313.github.io/herrSpinellBeschreibt/tags/</link>
     <description>Recent content in Tags on Herr Spinell Beschreibt...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://detlevspinellbeschreibt.lubeck/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://mxthu313.github.io/herrSpinellBeschreibt/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
