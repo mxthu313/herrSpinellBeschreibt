@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Herr Spinell Beschreibt...</title>
+    <link>https://mxthu313.github.io/herrSpinellBeschreibt/posts/</link>
+    <description>Recent content in Posts on Herr Spinell Beschreibt...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:19:25 -0700</lastBuildDate><atom:link href="https://mxthu313.github.io/herrSpinellBeschreibt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Erster Beitrag</title>
+      <link>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</link>
+      <pubDate>Wed, 02 Jun 2021 00:19:25 -0700</pubDate>
+      
+      <guid>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</guid>
+      
+        <description>Hier ist ein bisschen Wörter&amp;hellip;
+Dieser Beitrag ist einfach einer, um die funktionalität zu testen</description>
+      
+    </item>
+    
+  </channel>
+</rss>
