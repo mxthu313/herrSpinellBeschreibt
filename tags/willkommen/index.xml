@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>willkommen on Herr Spinell Beschreibt...</title>
+    <link>https://mxthu313.github.io/herrSpinellBeschreibt/tags/willkommen/</link>
+    <description>Recent content in willkommen on Herr Spinell Beschreibt...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://mxthu313.github.io/herrSpinellBeschreibt/tags/willkommen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Erster Beitrag</title>
+      <link>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</link>
+      <pubDate>Sat, 01 Jan 0000 00:19:25 -0700</pubDate>
+      
+      <guid>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</guid>
+      
+        <description>Hier ist ein bisschen Wörter&amp;hellip;
+Dieser Beitrag ist einfach einer, um die funktionalität zu testen.
+Bitte meine &amp;ldquo;Leitspruch&amp;rdquo; Seite lesen—da arbeitete ich der Leitspruch dieses Blogs aus.
+— Ihrer geistiger Retter Spinell </description>
+      
+    </item>
+    
+  </channel>
+</rss>

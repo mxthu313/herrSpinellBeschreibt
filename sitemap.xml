@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/</loc>
-    <lastmod>2021-06-02T00:19:25-07:00</lastmod>
-  </url><url>
-    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</loc>
-    <lastmod>2021-06-02T00:19:25-07:00</lastmod>
-  </url><url>
-    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/</loc>
-    <lastmod>2021-06-02T00:19:25-07:00</lastmod>
-  </url><url>
     <loc>https://mxthu313.github.io/herrSpinellBeschreibt/about/</loc>
     <lastmod>2021-06-01T00:19:25-07:00</lastmod>
   </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/tags/arbeiten/</loc>
+  </url><url>
     <loc>https://mxthu313.github.io/herrSpinellBeschreibt/categories/</loc>
   </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/</loc>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/tags/m%C3%B6belkritik/</loc>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/tags/pers%C3%B6nlich/</loc>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/</loc>
+  </url><url>
     <loc>https://mxthu313.github.io/herrSpinellBeschreibt/tags/</loc>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/tags/willkommen/</loc>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/post2/</loc>
+    <lastmod>0000-01-03T00:19:26-07:00</lastmod>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/post1/</loc>
+    <lastmod>0000-01-01T00:19:26-07:00</lastmod>
+  </url><url>
+    <loc>https://mxthu313.github.io/herrSpinellBeschreibt/posts/test-post/</loc>
+    <lastmod>0000-01-01T00:19:25-07:00</lastmod>
   </url>
 </urlset>
